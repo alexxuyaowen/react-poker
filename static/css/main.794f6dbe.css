@@ -1,0 +1,2 @@
+:root{--max-height-tablet:3000px}.cards{display:flex;flex-wrap:wrap;gap:3px}.card{border:1px solid #000;border-radius:5px;cursor:pointer;flex-grow:1;opacity:.2;width:7%}.card:hover{-webkit-transform:scale(.97);transform:scale(.97)}.selected{opacity:1}
+/*# sourceMappingURL=main.794f6dbe.css.map*/
